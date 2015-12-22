@@ -1,0 +1,14 @@
+layout_spectrum: 0.9247312
+color:
+  saturation: 0.8120105
+  brandStrength: 0.7046812
+  lightness: 0.9395708
+  brandColors:
+    - '#372F16'
+    - '#EAE0C4'
+    - '#B3BEDF'
+    - '#9A7639'
+    - '#B5AC90'
+  rhythmicContrast: 0.8772671
+typography_spectrum: 0.7078853
+name: Charles Halton
